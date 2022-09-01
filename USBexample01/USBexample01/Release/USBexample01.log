@@ -1,0 +1,7 @@
+﻿  usb.cpp
+d:\customhiddevice\программа для win\usbexample01\usbexample01\usb.cpp(59): warning C4101: signal: неиспользованная локальная переменная
+d:\customhiddevice\программа для win\usbexample01\usbexample01\usb.cpp(241): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note:  см. объявление "strncpy"
+d:\customhiddevice\программа для win\usbexample01\usbexample01\usb.cpp(242): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note:  см. объявление "strncpy"
+  USBexample01.vcxproj -> D:\CustomHIDdevice\Программа для Win\USBexample01\Release\USBexample01.exe
